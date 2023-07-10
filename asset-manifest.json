@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ik-lighting/static/css/main.37bc173f.css",
+    "main.js": "/ik-lighting/static/js/main.efc1ead2.js",
+    "static/js/787.0ed61219.chunk.js": "/ik-lighting/static/js/787.0ed61219.chunk.js",
+    "index.html": "/ik-lighting/index.html",
+    "main.37bc173f.css.map": "/ik-lighting/static/css/main.37bc173f.css.map",
+    "main.efc1ead2.js.map": "/ik-lighting/static/js/main.efc1ead2.js.map",
+    "787.0ed61219.chunk.js.map": "/ik-lighting/static/js/787.0ed61219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37bc173f.css",
+    "static/js/main.efc1ead2.js"
+  ]
+}
